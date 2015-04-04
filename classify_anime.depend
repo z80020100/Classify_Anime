@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1422714770 source:d:\downloads\classify_c_program\classify_anime\main.c
+	<stdio.h>
+	<sys/types.h>
+	<dirent.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1422714835 source:d:\downloads\classify_c_program\classify_anime\resources.rc
+
+1423076061 source:d:\dropbox\programs\classify_c_program\classify_anime\main.c
+	<stdio.h>
+	<sys/types.h>
+	<dirent.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1422714835 source:d:\dropbox\programs\classify_c_program\classify_anime\resources.rc
+
